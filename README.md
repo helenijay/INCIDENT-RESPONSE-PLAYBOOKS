@@ -1,4 +1,5 @@
-Project 1: Incident Response Playbooks 
+Incident Response Playbooks 
+project link: https://docs.google.com/document/d/1IaJqTbujqMAr50sbuIr9J1SCjq8O_CjQNgyDCrxoh3k/edit?usp=drive_link
 
 Focus: SOC Operations, Threat Containment, and Recovery.
 
@@ -15,5 +16,6 @@ Ransomware: A finance employee downloaded a fake update, leading to file encrypt
 Response: Immediate network isolation (EDR), system wipe, and restoration from offline backups.
 
 DDoS Attack: A botnet flooded the booking API with 20Gbps of traffic.
+
 
 Response: Implemented Geo-blocking (blocking non-local traffic) and Rate Limiting via WAF.
